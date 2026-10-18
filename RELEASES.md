@@ -1,4 +1,4 @@
-# ZG ZoneCore — releases and compatibility
+# ZoneCore — releases and compatibility
 
 Current source and protected release file: **2.1.3** (10 October 2026). This version declares Elgochogms as author and All Rights Reserved. Earlier versions distributed under MIT retain their earlier license. Uploaded to CurseForge as file **9124284** on 10 October; under review at 20:44 ET. Project approval and public download remain pending.
 
