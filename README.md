@@ -1,10 +1,10 @@
-# ZG ZoneCore — Zone API
+# ZoneCore — Zone API
 
 ## English
 
 **Summary:** Server-side integration API for the ZONE family of Minecraft Forge 1.20.1 mods.
 
-ZG ZoneCore lets ZONE server mods register configuration reload handlers, permission names, and a rank provider through one shared API. It contains no player-facing items or client interface.
+ZoneCore lets ZONE server mods register configuration reload handlers, permission names, and a rank provider through one shared API. It contains no player-facing items or client interface.
 
 ### Install
 
@@ -36,7 +36,7 @@ Forge creates `config/zonecore-common.toml`. It has one option:
 
 **Resumen:** API de integración del servidor para los mods de la familia ZONE en Minecraft Forge 1.20.1.
 
-ZG ZoneCore permite que los mods ZONE del servidor registren manejadores de recarga de configuración, nombres de permisos y un proveedor de rangos mediante una API compartida. No añade objetos visibles ni interfaz para el jugador.
+ZoneCore permite que los mods ZONE del servidor registren manejadores de recarga de configuración, nombres de permisos y un proveedor de rangos mediante una API compartida. No añade objetos visibles ni interfaz para el jugador.
 
 ### Instalación
 
@@ -66,5 +66,5 @@ Forge crea `config/zonecore-common.toml`. Contiene una opción:
 
 ## Ownership / Titularidad
 
-Documentation and original ZONE visual assets © Elgochogms. This public repository contains documentation and the ZG avatar only; it does not distribute source code, private mappings, secrets, or production configuration.
+Documentation and original ZONE visual assets © Elgochogms. This public repository contains documentation and the avatar only; it does not distribute source code, private mappings, secrets, or production configuration.
 
