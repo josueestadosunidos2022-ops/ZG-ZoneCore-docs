@@ -1,4 +1,24 @@
-# ZoneCore — Zone API
+# ZoneCore
+
+## Current update / Actualización actual — 2026-10-23
+
+Protected public builds prepared for Minecraft 1.20.1 / Forge 47.4.x / Java 17. Files become available after CurseForge approval. / Compilaciones públicas protegidas; los archivos estarán disponibles cuando CurseForge los apruebe.
+
+Shared server services used by the current Zone progression and utility releases. Multiplayer clients do not need Core.
+
+| Side / Lado | Version / Versión | File / Archivo |
+|---|---|---|
+| server | 2.1.4 | `zonecore-2.1.4-protected.jar` |
+
+Install only the JAR for each side; never put both side JARs in one mods folder. Back up the world and preserve existing player data and TOML files. / Instala solo el JAR correspondiente a cada lado; conserva mundo, progreso y TOML existentes.
+
+**server dependencies / dependencias:** No additional Zone dependency / Sin dependencia adicional de Zone.
+
+Archive checks and isolated dedicated-server startup do not certify graphical gameplay, real multiplayer or the full modpack. / Las verificaciones de archivo y arranque aislado no certifican cliente gráfico, multijugador real ni modpack completo.
+
+## Earlier reference / Referencia anterior
+
+The following reference predates this update. Use the current versions and side instructions above when they differ. / La referencia siguiente es anterior; prevalecen las versiones y las indicaciones de lado de esta actualización.
 
 ## English
 
@@ -67,4 +87,3 @@ Forge crea `config/zonecore-common.toml`. Contiene una opción:
 ## Ownership / Titularidad
 
 Documentation and original ZONE visual assets © Elgochogms. This public repository contains documentation and the avatar only; it does not distribute source code, private mappings, secrets, or production configuration.
-
