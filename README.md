@@ -1,5 +1,19 @@
 # ZoneCore
 
+## Current builds / Versiones actuales — 2026-11-03
+
+| Side / Lado | Version / Versión | CurseForge |
+|---|---|---|
+| ZoneCore server | 2.1.5 | [Files / Archivos](https://www.curseforge.com/minecraft/mc-mods/zonecore/files/9426419) |
+
+[Changes, installation and compatibility / Cambios, instalación y compatibilidad](RELEASE-2026-11-03.md).
+
+Public protected Beta builds. A submitted file becomes downloadable only after CurseForge approval. / Betas públicas protegidas: cada archivo queda descargable cuando CurseForge lo aprueba.
+
+## Earlier documentation / Documentación anterior
+
+The version and side table above takes precedence over historical versions below. / La tabla anterior prevalece sobre versiones históricas de la documentación siguiente.
+
 ## Current update / Actualización actual — 2026-10-23
 
 Protected public builds prepared for Minecraft 1.20.1 / Forge 47.4.x / Java 17. Files become available after CurseForge approval. / Compilaciones públicas protegidas; los archivos estarán disponibles cuando CurseForge los apruebe.
